@@ -334,3 +334,56 @@ It is part of the **java.util package** and simplifies data handling by **provid
 
 <img src="resources/exception.jpg" alt="">
 
+- **Errors** should not be handled.
+- **Checked exception** should be handled in the code.
+- **None Checked exception** RuntimeException and could not be handled.
+
+we can handle the exception using try catch block
+
+```
+    try{
+        // code sample
+    
+    }catch (Exception ex) {
+        System.out.println(ex.getMessage());
+    }
+
+
+```
+
+<img src="resources/exception2.png" alt="">
+
+<hr/>
+
+
+<img src="resources/runtimeexception.png" alt="">
+
+<hr/>
+
+
+## Functional Programming Paradigm
+<hr/>
+a programming paradigm that treats computation as the evaluation of mathematical functions.
+Passing functions into another functions.
+
+
+## Concurrency & Multithreading
+<hr/>
+
+the ability of a program to perform multiple tasks or operations simultaneously.
+
+
+<img src="resources/concurrency.png" alt="">
+
+
+
+<hr/>
+
+### Resources & Tools
+<hr/>
+
+- [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/)
+- Introduction to Java Programming COMPREHENSIVE VERSION Y. Daniel Liang
+- Downloading Java JDK https://adoptium.net/temurin/releases/
+- Download IntellijIDEA https://www.jetbrains.com/idea/download/
+- W3schools, Baeldung, so on 
