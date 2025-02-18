@@ -1,7 +1,8 @@
 public class App {
     public static void main(String[] args) {
 
-        System.out.println("Simple OOP Project");
+        System.out.println("Introduction To OOP!!");
 
     }
 }
+
