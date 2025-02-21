@@ -3,6 +3,7 @@
 ---------------------------------
 - packages
 - object-oriented programming(oop)
+- Wrapper classes vs Primitive Types
 - collection framework
 - exception handling
 - functional programming
@@ -15,10 +16,13 @@
 <hr/>
 
 a mechanism that encapsulates a group of classes, sub-packages, and interfaces.
-- Prevent naming conflicts.
 - Easier to organize classes and code.
+- Prevent naming conflicts.
 
 <img src="resources/directories.png" alt="Java Packages">
+
+
+<hr/>
 
 
 ## Object-Oriented Programming(OOP) 
