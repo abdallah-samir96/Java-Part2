@@ -192,7 +192,6 @@ Method **multiple forms**. <br/>
 It allows a single method to behave differently based on the context.
 
 - to make **runtime polymorphism we should have inheritance**.
-- **base class contains one method and child classes need to write another logic**.
 
 <img src="resources/polymorphism.png" alt="java">
 
@@ -288,7 +287,7 @@ meaning constant values.
 **final with**
 - **local variables meaning that this variable is const**
 - **properties meaning that this attributes is const**
-- **with methods meaning these methods could not be inherited**
+- **with methods meaning these methods could not be overrided**
 - **classes mean this class could not be inherited form other classes**
 <hr/>
 
